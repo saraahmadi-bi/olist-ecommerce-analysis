@@ -77,7 +77,7 @@ Delivery speed, late orders, on-time performance, review-score distribution, and
 
 Interactive Azure Maps views for the top customer cities and the locations of the top 30 sellers by product sales.
 
-![Top 30 Cities by Sales](iimages/dashboard/06-geographical-analysis-cities.png)
+![Top 30 Cities by Sales](images/dashboard/06-geographical-analysis-cities.png)
 
 ![Top 30 Sellers by Product Sales](images/dashboard/07-geographical-analysis-sellers.png)
 
